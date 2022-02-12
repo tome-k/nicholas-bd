@@ -22,7 +22,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 </p>
 
 
-<img align="right" alt="GIF" src="https://github.com/nicholas-bd/nicholas-bd/blob/master/code.gif?raw=true" width="500" height="320" />
+<img align="center" alt="GIF" src="https://github.com/nicholas-bd/nicholas-bd/blob/master/code.gif?raw=true" width="500" height="320" />
 
 
 
