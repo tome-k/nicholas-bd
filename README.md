@@ -5,6 +5,8 @@
 
 
 <br />
+<br />
+<br />
 
 Hi, i'm [Nicholas Bond](https://nicholas-bd.web.app/), a passionate full stack web developer and a freelance software engineer from Canada. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
